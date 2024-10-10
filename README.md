@@ -8,4 +8,4 @@ Immunotherapy engages the immune system against cancer tumors. However, predicti
 Check out the full project folders in our google drive: https://drive.google.com/file/d/15TpZub9uD2HP4C18K0K9mpAufmCLQ5xr/view?usp=drive_link 
 (download "final project.zip")
 
-Dotan Sadka and Adi Shrem
+Dotan Sadka's and Adi Shrem's - Degree Final Project 
